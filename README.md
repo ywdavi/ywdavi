@@ -35,7 +35,7 @@ Here are some projects I'm proud of:
 - [**NLP review analysis**](https://github.com/ywdavi/Bachelor-Thesis-NLP-Review-Analysis)  
   This repository contains my bachelor thesis project, which focuses on the analysis of reviews through Natural Language Processing (NLP)....
 
-**View all my projects [here](https://github.com/ywdavi)**.
+**View all my projects [here](https://github.com/ywdavi?tab=repositories)**.
 
 ### 📫 How to reach me
 - 📧 Email: **dav.vettore@gmail.com**
