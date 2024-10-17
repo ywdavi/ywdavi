@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 - 🎓 I hold a **Bachelor’s degree in Statistics and Information Management** from the University of Milano-Bicocca.
-- 📚 I’m currently pursuing a **Master's in Artificial Intelligence for Science and Technology** at University of Milano Bicocca.
+- 📚 I’m currently pursuing a **Master's in Artificial Intelligence for Science and Technology** at University of Milano-Bicocca.
 - 🌱 I’m currently deepening my skills in machine learning, computer vision, and AI-driven systems.
 
 ### 🛠️ Languages and Tools:
