@@ -29,10 +29,10 @@ Here are some projects I'm proud of:
 - [**Image Classification**](https://github.com/ywdavi/Image-Classification)  
   Comparative Analysis of SIFT/BoW, CNNs, and SSL Techniques for Image Classification...
   
-- [**Chatbot using Natural Language Processing**](https://github.com/ywdavi/Image-Segmentation)  
+- [**Image Segmentation**](https://github.com/ywdavi/Image-Segmentation)  
   Segmentation of Aerial Images for Drone Landing Detection...
 
-- [**Data Analysis of COVID-19 Trends**](https://github.com/ywdavi/Bachelor-Thesis-NLP-Review-Analysis)  
+- [**NLP review analysis**](https://github.com/ywdavi/Bachelor-Thesis-NLP-Review-Analysis)  
   This repository contains my bachelor thesis project, which focuses on the analysis of reviews through Natural Language Processing (NLP)....
 
 **View all my projects [here](https://github.com/ywdavi)**.
