@@ -38,6 +38,6 @@ Here are some projects I'm proud of:
 **View all my projects [here](https://github.com/ywdavi?tab=repositories)**.
 
 ### 📫 How to reach me
-- 📧 Email: **dav.vettore@gmail.com**
+- 📧 **dav.vettore@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/davide-vettore-4aa024171/)
 - 🌐 [GitHub](https://github.com/ywdavi)
