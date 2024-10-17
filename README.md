@@ -26,14 +26,14 @@
 ### 📚 Featured Projects
 Here are some projects I'm proud of:
 
-- [**AI Image Classifier**](https://github.com/ywdavi/ai-image-classifier)  
-  A deep learning-based image classifier built with TensorFlow and Python, achieving over 95% accuracy on the CIFAR-10 dataset.
+- [**Image Classification**](https://github.com/ywdavi/Image-Classification)  
+  Comparative Analysis of SIFT/BoW, CNNs, and SSL Techniques for Image Classification...
   
-- [**Chatbot using Natural Language Processing**](https://github.com/ywdavi/chatbot-nlp)  
-  An NLP-powered chatbot designed using Python, NLTK, and machine learning algorithms.
+- [**Chatbot using Natural Language Processing**](https://github.com/ywdavi/Image-Segmentation)  
+  Segmentation of Aerial Images for Drone Landing Detection...
 
-- [**Data Analysis of COVID-19 Trends**](https://github.com/ywdavi/covid-data-analysis)  
-  A comprehensive data analysis and visualization of COVID-19 cases using Pandas and Seaborn.
+- [**Data Analysis of COVID-19 Trends**](https://github.com/ywdavi/Bachelor-Thesis-NLP-Review-Analysis)  
+  This repository contains my bachelor thesis project, which focuses on the analysis of reviews through Natural Language Processing (NLP)....
 
 **View all my projects [here](https://github.com/ywdavi)**.
 
