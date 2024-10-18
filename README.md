@@ -33,7 +33,7 @@ Here are some projects I'm proud of:
   Segmentation of Aerial Images for Drone Landing Detection...
 
 - [**NLP review analysis**](https://github.com/ywdavi/Bachelor-Thesis-NLP-Review-Analysis)  
-  This repository contains my bachelor thesis project, which focuses on the analysis of reviews through Natural Language Processing (NLP)....
+  This repository contains my bachelor thesis project, which I presented in 2023. The goal was to analyze Amazon product reviews using Natural Language Processing (NLP) techniques. I extracted real-world data using web scraping, performed Sentiment Analysis to classify reviews, and used Topic Modeling to uncover hidden topics in the text.
 
 **View all my projects [here](https://github.com/ywdavi?tab=repositories)**.
 
