@@ -26,14 +26,14 @@
 ### 📚 Featured Projects
 Here are some projects I'm proud of:
 
-- [**Image Classification**](https://github.com/ywdavi/Image-Classification)  
-  Comparative Analysis of SIFT/BoW, CNNs, and SSL Techniques for Image Classification...
-  
-- [**Image Segmentation**](https://github.com/ywdavi/Image-Segmentation)  
-  Segmentation of Aerial Images for Drone Landing Detection...
+- [**Food Image Classification**](https://github.com/ywdavi/Food-Image-Classification)  
+  Comparative Analysis of SIFT/BoW, CNNs, and SSL Techniques for food Image Classification.
+
+- [**Segmentation of Aerial Images**](https://github.com/ywdavi/Segmentation-of-Aerial-Images)  
+  This project aims to detect safe drone landing zones through the segmentation of aerial images.
 
 - [**NLP review analysis**](https://github.com/ywdavi/Bachelor-Thesis-NLP-Review-Analysis)  
-  This repository contains my bachelor thesis project, which I presented in 2023. The goal was to analyze Amazon product reviews using Natural Language Processing (NLP) techniques. I extracted real-world data using web scraping, performed Sentiment Analysis to classify reviews, and used Topic Modeling to uncover hidden topics in the text.
+  This repository contains my bachelor thesis project, which focuses on the analysis of reviews through Natural Language Processing (NLP).
 
 **View all my projects [here](https://github.com/ywdavi?tab=repositories)**.
 
