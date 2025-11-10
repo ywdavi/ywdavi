@@ -34,7 +34,7 @@ Here are some projects I'm proud of:
 - [**Segmentation of Aerial Images**](https://github.com/ywdavi/Segmentation-of-Aerial-Images)  
   This project aims to detect safe drone landing zones through the segmentation of aerial images.
 
-- [**Industrial Anomaly Detection and Localization**](https://github.com/ywdavi/Industrial-Anomaly-Detection-and-Localization)
+- [**Industrial Anomaly Detection and Localization**](https://github.com/ywdavi/Industrial-Anomaly-Detection-and-Localization)   
   Industrial anomaly detection on MVTec using deep autoencoders and feature-based multi-knowledge distillation.
 
 **View all my projects [here](https://github.com/ywdavi?tab=repositories)**.
