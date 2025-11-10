@@ -34,8 +34,8 @@ Here are some projects I'm proud of:
 - [**Segmentation of Aerial Images**](https://github.com/ywdavi/Segmentation-of-Aerial-Images)  
   This project aims to detect safe drone landing zones through the segmentation of aerial images.
 
-- [**NLP review analysis**](https://github.com/ywdavi/Bachelor-Thesis-NLP-Review-Analysis)  
-  This repository contains my bachelor thesis project, which focuses on the analysis of reviews through Natural Language Processing (NLP).
+- [**Industrial Anomaly Detection and Localization**](https://github.com/ywdavi/Industrial-Anomaly-Detection-and-Localization)
+  Industrial anomaly detection on MVTec using deep autoencoders and feature-based multi-knowledge distillation.
 
 **View all my projects [here](https://github.com/ywdavi?tab=repositories)**.
 
