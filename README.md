@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Davide Vettore</h1>
-<h3 align="center">I'm a passionate Master's degree student specializing in Artificial Intelligence</h3>
+<h3 align="center">Tech & Strategy Advisor Intern | MSc in Artificial Intelligence for Science and Technology</h3>
 
 ### 🚀 About Me
 - 🎓 I hold a **Bachelor’s degree in Statistics and Information Management** from the University of Milano-Bicocca.
-- 📚 I’m currently pursuing a **Master's in Artificial Intelligence for Science and Technology** at University of Milano-Bicocca.
-- 🌱 I’m currently deepening my skills in machine learning, computer vision, and AI-driven systems.
+- 🎓 I recently completed a **Master's Degree in Artificial Intelligence for Science and Technology**, a joint program by Università degli Studi di Milano-Bicocca, Università degli Studi di Milano, and Università di Pavia.
+- 💼 I am currently working as a **Tech & Strategy Advisor Intern at Accenture**, supporting Technology Strategy & Advisory projects, designing enterprise architectures and transition maps that integrate AI into real business processes.
+- 🌱 I am deepening my skills in machine learning, AI agents, and AI-driven systems applied to real-world, regulated environments.
+
 
 ### 🛠️ Languages and Tools:
 <p align="left">
